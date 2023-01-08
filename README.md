@@ -1,2 +1,3 @@
-# nextjs-tailwind-playground
-Just an overview how it works
+# Next.js / Tailwind Playground
+
+Just an overview how it works.
